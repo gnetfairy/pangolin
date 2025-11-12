@@ -37,8 +37,9 @@
 - 场景1：asmx/soap上线->提权->抓Hash  
 低权限shell，绕过某数字杀软，提权到SYSTEM，抓Hash,全程不用创建任何新的进程，[观看完整演示视频](https://gnetfairy.github.io/pangolin/videos/20251112_221615.mp4)  
 ![ezgif-42300a3a03279f4f - 副本](https://github.com/user-attachments/assets/ed307076-e149-41c3-9d3e-91a785373777)
-- 场景2：攻防演练钓鱼上线->抓密码->内存加载frp突破内外隔离，计划任务/右键维权  
+- 场景2：攻防演练钓鱼上线->抓密码->内存加载fscan扫描，鼠标右键维权  
+HVV场景下钓鱼上线，内存加载fscan，frp等避免安全软件告警，[观看完整演示视频](https://gnetfairy.github.io/pangolin/videos/20251112_231302.mp4)  
+ ![ezgif-598e9b262b8f1039](https://github.com/user-attachments/assets/da8625e5-1bba-43ea-9dd4-cf7ca0c00e42)
 
- 
 
 
