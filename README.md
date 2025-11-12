@@ -29,7 +29,7 @@
  - 启动成功，安装极其简单，无任何依赖  
     <img width="478" height="208" alt="image" src="https://github.com/user-attachments/assets/53864923-d97b-4e4b-8cd0-88b4f3ba042c" />
 ## 快速上手
-- 系统设置-选择输出格式，如powershel。  
+- 系统设置-选择输出格式，如powershell。  
   <img width="672" height="460" alt="image" src="https://github.com/user-attachments/assets/7722f302-1d1e-42f0-95b1-022a872d5dd4" />
 - 执行即可上线  
   <img width="712" height="430" alt="image" src="https://github.com/user-attachments/assets/ab4c61c2-4799-4156-b8e9-ba5c253554b4" />
