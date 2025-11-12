@@ -33,6 +33,12 @@
   <img width="672" height="460" alt="image" src="https://github.com/user-attachments/assets/7722f302-1d1e-42f0-95b1-022a872d5dd4" />
 - 执行即可上线  
   <img width="712" height="430" alt="image" src="https://github.com/user-attachments/assets/ab4c61c2-4799-4156-b8e9-ba5c253554b4" />
+## 常用场景
+- 场景1：asmx/soap上线->提权->抓Hash  
+低权限shell，绕过某数字杀软，提权到SYSTEM，抓Hash,全程不用创建任何新的进程，[观看完整演示视频](https://gnetfairy.github.io/pangolin/videos/20251112_221615.mp4)  
+![ezgif-42300a3a03279f4f - 副本](https://github.com/user-attachments/assets/ed307076-e149-41c3-9d3e-91a785373777)
+- 场景2：攻防演练钓鱼上线->抓密码->内存加载frp突破内外隔离，计划任务/右键维权  
 
+ 
 
 
