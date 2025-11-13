@@ -42,7 +42,7 @@ HVV场景下钓鱼上线，内存加载fscan，frp等避免安全软件告警，
  ![ezgif-598e9b262b8f1039](https://github.com/user-attachments/assets/da8625e5-1bba-43ea-9dd4-cf7ca0c00e42)
 ## 更新
 ### V1.0.1.0
-首个Community版本发布，Team和Enterprise版本不公开发布。
+首个Community版本(无免杀模块、团队协作等部分功能)发布，Team和Enterprise版本不公开发布。
 ## 免责声明
 本工具仅限用于授权的安全测试、教育目的和合法研究。任何未经授权使用本工具对系统或网络进行测试的行为均属非法。使用者应对其行为负全部责任，开发者不对任何误用或损害承担法律责任。
 
