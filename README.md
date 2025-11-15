@@ -40,6 +40,12 @@
 - 场景2：攻防演练钓鱼上线->抓密码->内存加载fscan扫描，鼠标右键维权  
 HVV场景下钓鱼上线，内存加载fscan，frp等避免安全软件告警，[观看完整演示视频](https://gnetfairy.github.io/pangolin/videos/20251112_231302.mp4)  
  ![ezgif-598e9b262b8f1039](https://github.com/user-attachments/assets/da8625e5-1bba-43ea-9dd4-cf7ca0c00e42)
+- 场景3：默认IP TCP上线，可配置域名上线冗余，如IP被被封，可自动切换域名上线（如云函数）  
+  默认TCP
+  <img width="1268 " height="602" alt="image" src="https://github.com/user-attachments/assets/84398f6d-0023-41f6-a4b8-b23c53eb8007" />
+  IP被拉黑后，自动切换云函数上线
+  <img width="2540" height="1210" alt="image" src="https://github.com/user-attachments/assets/85289fe1-50c0-4533-a440-6c2d37c3f42a" />
+
 ## 更新
 ### V1.0.1.0
 首个Community版本(无免杀模块、团队协作、jsp/asmx/soap上线等部分功能)发布，Team和Enterprise版本不公开发布。
