@@ -49,6 +49,13 @@ HVV场景下钓鱼上线，内存加载fscan，frp等避免安全软件告警，
 ## 更新
 ### V1.0.1.0
 首个Community版本(无免杀模块、团队协作、jsp/asmx/soap上线等部分功能)发布，Team和Enterprise版本不公开发布。
+## 补充说明  
+软件功能依赖的<br>
+Ressy.dll(SHA256:3974229973a2216ff24fd14cb045f1b3ffd1f2f147291797441a5504400c4463)
+System.Data.SQLite.dll(SHA256:4a76485e43a7b13db7efb3a4d6793e549c68d2d830cceeaca7a9f3a665affaf5)
+SQLite.Interop.dll(SHA256:e931ec2f62703e70b74918b4873dce5e4d1d107edea212115675f6ce93514708)
+frps.exe(SHA256:784cff3e9348ef5e6b36740747c3db74cd21660dc7640fdfefcc258294fb8e0c)<br>
+等等部分文件等来自互联网，不确保安全性，建议虚拟机运行。
 ## 免责声明
 本工具仅限用于授权的安全测试、教育目的和合法研究。任何未经授权使用本工具对系统或网络进行测试的行为均属非法。使用者应对其行为负全部责任，开发者不对任何误用或损害承担法律责任。
 
