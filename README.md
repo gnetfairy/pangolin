@@ -20,12 +20,16 @@
 
 ## 安装
 - 仔细阅读免责声明，同意可继续  
-  <img width="478" height="208" alt="image" src="https://github.com/user-attachments/assets/76e49c46-579a-4ece-8db5-4273f05096fc" />
+  <img width="478" height="208" alt="image" src="https://github.com/user-attachments/assets/ab3aecb7-6139-4a92-9490-e39cf3b8c1f3" />
+  
+
 - 配置服务端IP和端口
 一般为VPS公网IP，端口可1-65535之间的未被占用的端口  
-  <img width="478" height="208" alt="image" src="https://github.com/user-attachments/assets/7e08e2ce-2b39-45c1-bc36-dd9fbe4d8f17" />
+  <img width="478" height="208" alt="image" src="https://github.com/user-attachments/assets/d25d7e3d-00d8-44c8-bba4-4c0478d08b60" />
+
 - 如果没有域名上线需求，一般保持默认即可  
-  <img width="478" height="208" alt="image" src="https://github.com/user-attachments/assets/a1dcf708-ba0b-4272-932a-64d3bfd09915" />
+  <img width="478" height="208" alt="image" src="https://github.com/user-attachments/assets/e5510396-8208-4ace-ab40-5f61c5669d34" />
+
  - 启动成功，安装极其简单，无任何依赖  
     <img width="478" height="208" alt="image" src="https://github.com/user-attachments/assets/53864923-d97b-4e4b-8cd0-88b4f3ba042c" />
 ## 快速上手
@@ -47,7 +51,7 @@ HVV场景下钓鱼上线，内存加载fscan，frp等避免安全软件告警，
   <img width="2540" height="1210" alt="image" src="https://github.com/user-attachments/assets/85289fe1-50c0-4533-a440-6c2d37c3f42a" />
 
 ## 更新
-### V1.0.1.0
+### V1.0.1.0 Community  
 首个Community版本(无免杀模块、团队协作、jsp/asmx/soap上线等部分功能)发布，Team和Enterprise版本不公开发布。
 ## 补充说明  
 软件功能依赖的<br>
