@@ -51,8 +51,10 @@ HVV场景下钓鱼上线，内存加载fscan，frp等避免安全软件告警，
   <img width="2540" height="1210" alt="image" src="https://github.com/user-attachments/assets/85289fe1-50c0-4533-a440-6c2d37c3f42a" />
 
 ## 更新
+### V1.0.1.1 Community  
+增加部分提权功能
 ### V1.0.1.0 Community  
-首个Community版本(无免杀模块、团队协作、jsp/asmx/soap上线等部分功能)发布，Team和Enterprise版本不公开发布。
+首个Community版本(无免杀模块、团队协作、jsp/asmx/soap上线等部分功能)发布，Professional和Enterprise版本不公开发布。
 ## 补充说明  
 软件功能依赖的<br>
 Ressy.dll(SHA256:3974229973a2216ff24fd14cb045f1b3ffd1f2f147291797441a5504400c4463)
