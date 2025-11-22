@@ -52,7 +52,7 @@ HVV场景下钓鱼上线，内存加载fscan，frp等避免安全软件告警，
 
 ## 更新
 ### V1.0.1.1 Community  
-增加部分提权功能
+增加部分提权功能<br>
 逻辑优化
 ### V1.0.1.0 Community  
 首个Community版本(无免杀模块、团队协作、jsp/asmx/soap上线等部分功能)发布，Professional和Enterprise版本不公开发布。
