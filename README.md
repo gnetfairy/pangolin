@@ -52,10 +52,11 @@ HVV场景下钓鱼上线，内存加载fscan，frp等避免安全软件告警，
 
 ## 更新
 ### V1.0.1.1 Community  
-增加部分提权功能  
-逻辑优化
+1、增加多个提权功能，SharpSweetPotatoSetThreadToken，BypassUAC等  
+2、逻辑优化，修改powershell命令支持捕获内存加载模块的控制台输出
 ### V1.0.1.0 Community  
-首个Community版本(无免杀模块、团队协作、jsp/asmx/soap上线等部分功能)发布，Professional和Enterprise版本不公开发布。
+1、支持Windows、Linux平台，支持TCP、HTTP/HTTPS协议，具有命令执行、文件管理、网络管理、进程管理、屏幕截图、权限维持、权限提升、内网扫描、内网穿透等实用功能。  
+2、Community版本(无免杀模块、团队协作、jsp/asmx/soap上线等部分功能)发布，Professional和Enterprise版本不公开发布。
 ## 补充说明  
 软件功能依赖的<br>
 Ressy.dll(SHA256:3974229973a2216ff24fd14cb045f1b3ffd1f2f147291797441a5504400c4463)
